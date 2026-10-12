@@ -1,0 +1,6 @@
+{
+  "name": "ProofOfWork — Practical Skill Verification Platform",
+  "description": "Role-based practical skill verification platform for students, evaluators, and admins with challenge catalogue, rubric-based evaluation, and portfolios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
